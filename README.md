@@ -35,4 +35,4 @@ cd flappy-bird
   ```
 
 ## Controls (if you missed it)
-*W/space**: flap upwards or jump
+**W/space**: flap upwards or jump
