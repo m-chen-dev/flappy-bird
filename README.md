@@ -24,13 +24,11 @@ cd flappy-bird
 ```
 2. Run in release or development mode:
 * **Release**
-  ```
-  bash
+  ```bash
   cargo run --release
   ```
 * **Development**
-  ```
-  bash
+  ```bash
   cargo run
   ```
 
