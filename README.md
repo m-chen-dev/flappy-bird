@@ -36,4 +36,6 @@ cd flappy-bird
 **W/space**: flap upwards or jump
 
 ## Preview
-![Flappy bird game preview](./screenshots/Preview.png)
+<p align="center">
+  <img width="307" height="245" alt="Flappy Bird clone preview" src="https://github.com/user-attachments/assets/4c07f955-0fd7-4a0e-a6a6-aa9a447bba6e" />
+</p>
