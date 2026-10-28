@@ -34,3 +34,6 @@ cd flappy-bird
 
 ## Controls (if you missed it)
 **W/space**: flap upwards or jump
+
+## Preview
+![Flappy bird game preview](./screenshots/Preview.png)
